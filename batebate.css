@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+}
+#bb, #bbDebug {
+    border: 2px solid #0000ff;
+    margin: 50px;
+}
